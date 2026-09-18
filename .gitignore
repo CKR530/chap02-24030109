@@ -1,0 +1,10 @@
+# Eclipse 构建输出
+build/
+*.class
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 老师作业和提供的材料（不公开）
+老师作业和提供的材料/
